@@ -1,4 +1,4 @@
-<h1><b> # 🚀 API - Sistema de Gestión Backend  </b></h1>
+<h1><b> # 🚀 API - Sistema de Gestión de Pacientes - Backend  </b></h1>
 
 Bienvenido al repositorio del *Backend* del sistema de gestión.  
 Este backend ha sido desarrollado para manejar todas las operaciones del sistema como registros, consultas, actualizaciones y eliminaciones de datos. Está diseñado para integrarse con el frontend y ofrecer una API RESTful robusta y eficiente.
